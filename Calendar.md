@@ -55,7 +55,7 @@
 ##### Homework
 * Roundtable for Project 2 - post videos on blog by *Feb 19th noon*
 * [Schedule your Maker Space Safety Orientation](https://wp.nyu.edu/makerspace/training-calendar/)
-* Max Sound patcher
+* Do another Max Poem, as outlined in the challenge starter patch, that is automated, has variety and a diversity of functionality. Explore the max objects advised in the starter patch. Know their functionality, by demonstrated use. Explore and play! This should be much more sophisticated than what was submited for your challenge and completely different. Drop the completed assignment, labeled with your name and titled Max Exercise 1, in a Slack DM *before February 26th*
 * Read [Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers by Golan Levin](http://www.flong.com/texts/essays/essay_cvad/)
 * Max Tutorials: Max + MSP (Max/Help/References/Click-on-the-house/Max/Tutorials) Tutorials: Max 10 (random drawing) - 175 (abstractions); MSP Tutorials Sampling and Recording (all, BUT Variable Length Wavetables and Waveshaping Synthesis); Jitter Tutorials: What is a Matrix, Attributes, 1 - 5)  
 
@@ -78,16 +78,18 @@
 
 ### Week 6 March 5th: Moving Pixels
 ##### InClass
-* Jitter Challenge
-* openCV + Kinect
+* Roundtable discussions
+* Jitter review
+* openCV 
 
 ###### Show & Tell VII.	Deep Local & Niklas Roy
 ###### Show & Tell VIII. Daily tous les Jours (Mouna Andraos) & Random International 
 
 ##### Homework
-* Work on Project 2
-* [MidTerm Self Assessment](SelfAssessments.md)
+* Work on Project 2 - 2 pushes, with noticible improvements and growth _before_ Sunday March 18th NOON
 * Read [History of the Interface in Interactive Art by Soke Dinkla](http://www.kenfeingold.com/dinkla_history.html)  Blog reflection
+* Bring a Kinect V1 1414 to class next
+* Submit your Max questions + bugs to the #bugs Slack channel with a link to your patch and very detailed description.
 
 
 ### Spring Break March 12th - 16th
@@ -95,18 +97,33 @@
 
 ### Week 7 March 19th: Project 2 Critique
 ##### InClass
-Project 2 Critique
-Launch Final Project
+* Kinect + Tracking
+* bugs + issues
 
 ##### Homework 
-* Document Project 2
+* [MidTerm Self Assessment](SelfAssessments.md)
+* Work on Project 2
 * Read Myron Kruger's [Responsive Environments](http://www.ctcs505.com/wp-content/uploads/2016/01/Krueger.pdf)
-* Read Gordan Pask's "The Architectual Relevance of Cybernetics"
-* Download Arduino IDE
+
 * Acquire Physical Computing Supples. Review your materials in your Physical Computing kit and understand what they do
 
 
-### Week 8 March 26th: Physical Computing 101
+### Week 8 March 26th: Project 2 Critique
+##### InClass
+Project 2 Critique
+Launch Final Project
+
+
+##### Homework
+* Document Project 2
+* Read Gordan Pask's "The Architectual Relevance of Cybernetics"
+* Download Arduino IDE
+* Acquire Physical Computing Supples. Review your materials in your Physical Computing kit and understand what they do
+* Prepare for Roundtable for Final Project - Post to your blog
+
+
+
+### Week 9 April 2rd: Physical Computing
 ##### InClass
 * Discuss Readings
 * Physical Computing 101
@@ -114,16 +131,6 @@ Launch Final Project
 ###### Show & Tell IX.	Design I/O & Golan Levin 
 ###### Show & Tell X.	The Explorartorium & Disney Research 
 
-##### Homework
-* Prepare for Roundtable for Final Project - Post to your blog
-* Read: Ken Rinaldo "Autopoiesis"
-* Read "Art as a Living System" by Christa Sommerer and Laurent Mignonneau
-
-
-### Week 9 April 2rd: Physical Computing
-##### InClass
-* Physical Computing 
-* Review of Roundtables
 
 ###### Show & Tell: XI.	eCloud (Hafermaas, Goods, Koblin), Bit.Fall (Popp), Jim Campbell 
 ###### Show & Tell: XII. Universal Everything & Karolina Sobekecka
@@ -131,7 +138,9 @@ Launch Final Project
 ##### Homework 
 * Final Project: Gather materials, ideate, code, research, sketch: post to your blog
 * Interactive mini system: Stupid Pet Tricks
- 
+* Read: Ken Rinaldo "Autopoiesis"
+* Read "Art as a Living System" by Christa Sommerer and Laurent Mignonneau
+
 
 ### Week 10 April 16th: Physical Computing
 ##### InClass
@@ -151,6 +160,7 @@ Launch Final Project
 ##### InClass
 * IoT Systems
 * Networking devices
+* Review of Roundtables
 
 ##### Show & Tell  XV.  United Visual Artist & Shawn Decker
 ##### Show & Tell  XVI.  Adrien M & Claire B Company & ....
